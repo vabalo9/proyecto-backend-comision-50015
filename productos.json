@@ -1,0 +1,11 @@
+[
+  {
+    "id": 1,
+    "title": "chaucha",
+    "description": "chaucha para comer saludablemente durante la semana",
+    "price": 50,
+    "img": "turl.png",
+    "code": 3312,
+    "stock": 10000000
+  }
+]
